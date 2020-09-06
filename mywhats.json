@@ -954,7 +954,7 @@
             ],
             "theme_color": "#22ae4b",
             "type": "tournament",
-            "featured": "1",
+            "featured": "0",
             "current_season": "{\"the_season\": \"2019/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
         },
         {
