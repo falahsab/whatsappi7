@@ -44,7 +44,7 @@
             "comp_id": "2",
             "whatsname": "واتساب عمر",
             "typ": "العنابي | الوردي | الازرق | الاخضر",
-            "update": "08/06/2020",
+            "update": "06/08/2020",
             "ver": "v27",
             "pageurl": "omar",
             "color": "#007bff",
@@ -83,7 +83,7 @@
         {
             "comp_id": "3",
             "whatsname": "جي بي واتساب",
-            "typ": "جي بي | جي بي2 | اتنفس هواك | اتنفس هواك بلس",
+            "typ": "جي بي | جي بي2 ",
             "update": "11/07/2020",
             "ver": "v27",
             "pageurl": "gb",
@@ -92,13 +92,13 @@
             "ftyp": [
                 {
                     "name": "جي بي",
-                    "page_url": "",
+                    "page_url": "last-update-gb-whatsapp",
                     "img": "https://1.bp.blogspot.com/-8Y76_tsLMxk/XzLnr0rTXsI/AAAAAAAAAhs/I1xk3fjb0rAYEpu9rqX8ziQMF19qoatiwCLcBGAsYHQ/s0/%25D8%25AC%25D9%258A-%25D8%25A8%25D9%258A-%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D8%25AA%25D9%2586%25D9%2581%25D8%25B3-%25D9%2587%25D9%2588%25D8%25A7%25D9%2583.png",
                     "dlink": "https://www.mediafire.com/file/i5bdt4nso0huhao/GBWhatsApp_Pro_v8.75.apk/file"
                 },
                 {
-                    "name": "جي بي لتشغيل رقم ثاني",
-                    "page_url": "",
+                    "name": "تشغيل رقم ثاني",
+                    "page_url": "last-update-gb-whatsapp-2",
                     "img": "https://lh3.googleusercontent.com/-XZtLvr81VKs/X0flHj-9toI/AAAAAAAAArI/87Aq5FT8nhIf8NQIk2mwTvrEKWv416KSACLcBGAsYHQ/h120/gb-atnafas-2.png",
                     "dlink": "https://tawasol4sy.org/download/ogwhatsapp/?wpdmdl=620&refresh=5f46e0deef61a1598480606"
                 }
@@ -110,7 +110,7 @@
         {
             "comp_id": "4",
             "whatsname": "جي بي اتنفس هواك",
-            "typ": "عدد النسخ: نسخة واحدة",
+            "typ": "اتنفس هواك | اتنفس هواك بلس",
             "update": "11/07/2020",
             "ver": "v8.35",
             "pageurl": "gb",
@@ -119,13 +119,13 @@
             "ftyp": [
                 {
                     "name": "اتنفس هواك",
-                    "page_url": "",
+                    "page_url": "last-update-atnafas-gb-whatsapp",
                     "img": "https://1.bp.blogspot.com/-8Y76_tsLMxk/XzLnr0rTXsI/AAAAAAAAAhs/I1xk3fjb0rAYEpu9rqX8ziQMF19qoatiwCLcBGAsYHQ/s0/%25D8%25AC%25D9%258A-%25D8%25A8%25D9%258A-%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D8%25AA%25D9%2586%25D9%2581%25D8%25B3-%25D9%2587%25D9%2588%25D8%25A7%25D9%2583.png",
                     "dlink": "https://tawasol4sy.org/download/gbwhatsapp/?wpdmdl=80&refresh=5f46e09a3c4cc1598480538"
                 },
                 {
-                    "name": "اتنفس هواك بلس",
-                    "page_url": "",
+                    "name": " بلس",
+                    "page_url": "last-update-atnafas-whatsapp-plus",
                     "img": "https://lh3.googleusercontent.com/-DjiDjIhXyUo/X0fkMAqWOhI/AAAAAAAAAq8/J6LuU16EidkKjgo8TQS_tRwibDc0krhGACLcBGAsYHQ/h120/whatsapp-plus-atnafas.png",
                     "dlink": "https://tawasol4sy.org/download/whatsapp-plus-atnfas-hoak/?wpdmdl=1024&refresh=5f46e08dd84901598480525"
                 }
@@ -147,25 +147,25 @@
             "ftyp": [
                 {
                     "name": "بديل الرسمي",
-                    "page_url": "",
+                    "page_url": "last-update-yo-whatsapp-wa",
                     "img": "https://lh3.googleusercontent.com/-IZZx5win1Eg/XzFhZGrDL4I/AAAAAAAAAgs/tmgRbDzuZoYoZVIt0qNUQ8pCAnbPE68vQCLcBGAsYHQ/h120/yo-whatsapp.png",
                     "dlink": "http://www.mediafire.com/file/a3y60aas31w4pr5"
                 },
                 {
                     "name": "النسخة الثانية",
-                    "page_url": "",
+                    "page_url": "last-update-yo-whatsapp-yowa",
                     "img": "https://lh3.googleusercontent.com/-IZZx5win1Eg/XzFhZGrDL4I/AAAAAAAAAgs/tmgRbDzuZoYoZVIt0qNUQ8pCAnbPE68vQCLcBGAsYHQ/h120/yo-whatsapp.png",
                     "dlink": "http://www.mediafire.com/file/1lp4avacfloguwg"
                 },
                 {
                     "name": "النسخة الثالثة",
-                    "page_url": "",
+                    "page_url": "last-update-yo-whatsapp-yowa2",
                     "img": "https://lh3.googleusercontent.com/-IZZx5win1Eg/XzFhZGrDL4I/AAAAAAAAAgs/tmgRbDzuZoYoZVIt0qNUQ8pCAnbPE68vQCLcBGAsYHQ/h120/yo-whatsapp.png",
                     "dlink": "http://www.mediafire.com/file/yn0hizlqisyxrvs"
                 },
                 {
                     "name": "جولد بديل الرسمي",
-                    "page_url": "",
+                    "page_url": "last-update-yo-whatsapp-gold",
                     "img": "https://lh3.googleusercontent.com/-IZZx5win1Eg/XzFhZGrDL4I/AAAAAAAAAgs/tmgRbDzuZoYoZVIt0qNUQ8pCAnbPE68vQCLcBGAsYHQ/h120/yo-whatsapp.png",
                     "dlink": "http://www.mediafire.com/file/ansdup8tnofyykc"
                 },
@@ -194,31 +194,31 @@
             "ftyp": [
                 {
                     "name": "بلس",
-                    "page_url": "",
+                    "page_url": "last-update-3ssem-whatsapp-plus",
                     "img": "https://lh3.googleusercontent.com/-Xc21An0Iwl8/X0LLci89XII/AAAAAAAAAow/oNUUQNDVtuE5UlPAaooELVLCILWcTefGACLcBGAsYHQ/h120/3ssem-plus.png.png",
                     "dlink": "https://archive.org/download/whatsapp-plus-v14-by-assem-fix/WhatsApp_Plus_V14_By_Assem_Fix.apk"
                 },
                 {
                     "name": "الاخضر",
-                    "page_url": "",
+                    "page_url": "last-update-3ssem-whatsapp-ag3",
                     "img": "https://1.bp.blogspot.com/-hMY5CG2KYgM/XzLn0Qn0ayI/AAAAAAAAAjc/pcT11HjFyBAPAJVYPtkBN0_riQ3L7cguACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25B9%25D8%25A7%25D8%25B5%25D9%2585-%25D9%2585%25D8%25AD%25D8%25AC%25D9%2588%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AE%25D8%25B6%25D8%25B1.png",
                     "dlink": "https://archive.org/download/ag3whatsapp-v14-by-assem-fix/AG3WhatsApp_V14_By_Assem_Fix.apk"
                 },
                 {
                     "name": "الازرق",
-                    "page_url": "",
+                    "page_url": "last-update-3ssem-whatsapp-ag",
                     "img": "https://1.bp.blogspot.com/-XQ3nHDcMBRA/XzLn0Y08clI/AAAAAAAAAjg/_1PwvnkkvqYejksZv10PANLvLady5qEnQCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25B9%25D8%25A7%25D8%25B5%25D9%2585-%25D9%2585%25D8%25AD%25D8%25AC%25D9%2588%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B2%25D8%25B1%25D9%2582.png",
-                    "dlink": "https://archive.org/download/erwhatsapp-v14-by-assem-fix/ERWhatsApp_V14_By_Assem_Fix.apk"
+                    "dlink": "https://archive.org/download/erwhatsapp-v14-by-assem-fix/AGWhatsApp_V14_By_Assem_Fix.apk"
                 },
                 {
                     "name": "الوردي",
-                    "page_url": "",
+                    "page_url": "last-update-3ssem-whatsapp-ag2",
                     "img": "https://1.bp.blogspot.com/-5oRCNHWNknM/XzLn04Hl-hI/AAAAAAAAAjk/sFpH5e5-MDgHrz2hNipGiTDmQJkAB4BUgCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25B9%25D8%25A7%25D8%25B5%25D9%2585-%25D9%2585%25D8%25AD%25D8%25AC%25D9%2588%25D8%25A8-%25D8%25A7%25D9%2584%25D9%2588%25D8%25B1%25D8%25AF%25D9%258A.png",
                     "dlink": "https://archive.org/download/ag2whatsapp-v14-by-assem-fix/AG2WhatsApp_V14_By_Assem_Fix.apk"
                 },
                 {
                     "name": "ارطغرل",
-                    "page_url": "",
+                    "page_url": "last-update-3ssem-whatsapp-er",
                     "img": "https://1.bp.blogspot.com/-zIY8GlZtP0c/XzLntAUCc4I/AAAAAAAAAh8/awlnn1rid4k-F3aaIKKa1kbauRiwmyB1ACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D8%25B1%25D8%25B7%25D8%25BA%25D8%25B1%25D9%2584.png",
                     "dlink": "https://archive.org/download/erwhatsapp-v14-by-assem-fix/ERWhatsApp_V14_By_Assem_Fix.apk"
                 }
@@ -242,7 +242,7 @@
                     "name": "الاسود",
                     "page_url": "",
                     "img": "https://1.bp.blogspot.com/-_wmHegt9mUU/XzLnsVIjmkI/AAAAAAAAAhw/PkzvCJxt0Z05cb3iyXehQnjkuy1zJmHmwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D8%25AF%25D9%2585-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B3%25D9%2588%25D8%25AF.png",
-                    "dlink": "http://the-legend-update2.com/v19/Hawa2WhatsApp_Red_v19_fixed.apk"
+                    "dlink": "http://the-legend-update1.com/v19/Adam2WhatsApp_Brown_v19_fixed.apk"
                 },
                 {
                     "name": "البني",
@@ -276,7 +276,7 @@
                     "name": "البنفسجي",
                     "page_url": "",
                     "img": "https://1.bp.blogspot.com/-JEh8D7jcrEs/XzLnyyoduTI/AAAAAAAAAjI/fSN-ZwEFq1oIsmAsf6Cmh-yP6-RsUrZtwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25AD%25D9%2588%25D8%25A7%25D8%25A1-%25D8%25A7%25D9%2584%25D8%25A8%25D9%2586%25D9%2581%25D8%25B3%25D8%25AC%25D9%258A.png",
-                    "dlink": "https://archive.org/download/AdamWhatsApp_Black_v19_fixed/AdamWhatsApp_Black_v19_fixed.apk"
+                    "dlink": "http://the-legend-update2.com/v19/HawaWhatsApp_Violet_v19_fixed.apk"
                 }
             ],
             "theme_color": "#63227d",
@@ -352,13 +352,13 @@
             "ftyp": [
                 {
                     "name": "الازرق",
-                    "page_url": "",
+                    "page_url": "last-update-taiz-whatsapp-blue",
                     "img": "https://1.bp.blogspot.com/-CMeHSe-V9d4/XzLnw_H3m6I/AAAAAAAAAiw/uLoUBkRebzoeOC7_lDEi1ZlN5FAfA6l9ACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25AA%25D8%25B9%25D8%25B2-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B2%25D8%25B1%25D9%2582.png",
                     "dlink": "https://www.mediafire.com/file/taqhmxh6yph16ot/TaizApp_Blue_V14_By%2540Nooraldeen.apk/file"
                 },
                 {
                     "name": "الوردي",
-                    "page_url": "",
+                    "page_url": "last-update-taiz-whatsapp-pink",
                     "img": "https://1.bp.blogspot.com/-hon8Fq1btkU/XzLnxfYfCSI/AAAAAAAAAi4/J6nKoyAcOBoIK_seiByoQr70gHGdEEX1QCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25AA%25D8%25B9%25D8%25B2-%25D8%25A7%25D9%2584%25D9%2588%25D8%25B1%25D8%25AF%25D9%258A.png",
                     "dlink": "https://www.mediafire.com/file/3cw3je18mqkm2es/Taiz2App_Pink_V14_By%2540Nooraldeen.apk/file"
                 }
@@ -628,25 +628,25 @@
             "ftyp": [
                 {
                     "name": "الذهبي",
-                    "page_url": "",
+                    "page_url": "last-update-alaqel-whatsapp-gold",
                     "img": "https://1.bp.blogspot.com/-SqUDsuFLxek/XzLnur_oCAI/AAAAAAAAAiU/qAcNthOuRkkMOIDs7Btc20EouFc1tAbowCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25A7%25D9%2582%25D9%2584-%25D8%25A7%25D9%2584%25D8%25B0%25D9%2587%25D8%25A8%25D9%258A.png",
                     "dlink": "ttp://www.mediafire.com/file/t1lmmts6zem1bqi/WhatsApp4YE.V8.40@Alaqel2Ahmed.xyz.apk/file"
                 },
                 {
                     "name": "العنابي",
-                    "page_url": "",
+                    "page_url": "last-update-alaqel-whatsapp-burgundy",
                     "img": "https://1.bp.blogspot.com/-xyxlSAPc5O0/XzLnt3XKAPI/AAAAAAAAAiM/y6SiHp5DxYQww1Hz9A50xWq4jGKa4Wm8gCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25A7%25D9%2582%25D9%2584-%25D8%25A7%25D9%2584%25D8%25A8%25D9%2586%25D9%2581%25D8%25B3%25D8%25AC%25D9%258A.png",
                     "dlink": "http://www.mediafire.com/file/vvt14hnu0d4e9yx/WhatsApp2YE.V8.40@Alaqel2Ahmed.xyz.apk/file"
                 },
                 {
                     "name": "الاخضر",
-                    "page_url": "",
+                    "page_url": "last-update-alaqel-whatsapp-green",
                     "img": "https://1.bp.blogspot.com/-2sjPxv75poY/XzLnt4sqnLI/AAAAAAAAAiI/FPOfjr6sdSouzSKTmP6w78W_EOcdMpqZQCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25B9%25D8%25A7%25D9%2582%25D9%2584-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AE%25D8%25B6%25D8%25B1.png",
                     "dlink": "http://www.mediafire.com/file/ylmp4boplnz1jiq/KiWAPlusv-V8.40@by-king.apk/file"
                 },
                 {
                     "name": "الوردي",
-                    "page_url": "",
+                    "page_url": "last-update-alaqel-whatsapp-pink",
                     "img": "https://lh3.googleusercontent.com/-kehxWJrtoz4/X0lJDURtcGI/AAAAAAAAArk/MdZQ1odnCYsetfywDohEbrk06v1sD1R_QCLcBGAsYHQ/h120/alaqel-pink-whatsapp.png",
                     "dlink": "http://www.mediafire.com/file/mama4xjkkjp2cae/WhatsApp3YE.V8.40@Alaqel2Ahmed.xyz.apk/file"
                 }
@@ -668,13 +668,13 @@
             "ftyp": [
                 {
                     "name": "الذهبي",
-                    "page_url": "",
+                    "page_url": "last-update-saef-whatsapp-gold",
                     "img": "https://1.bp.blogspot.com/-mpO-rYmn2Zo/XzLnzUutdJI/AAAAAAAAAjQ/qR2dqB5WkCYtHx5v6SzH_H_d14mQ5P_cgCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25B3%25D9%258A%25D9%2581-%25D8%25A7%25D9%2584%25D8%25B0%25D9%2587%25D8%25A8%25D9%258A.png",
                     "dlink": "http://www.mediafire.com/file/ylmp4boplnz1jiq/KiWAPlusv-V8.40@by-king.apk/file"
                 },
                 {
                     "name": "الوردي",
-                    "page_url": "",
+                    "page_url": "last-update-saef-whatsapp-pink",
                     "img": "https://lh3.googleusercontent.com/-b-f20hVuR5M/X0lZWXtDiZI/AAAAAAAAAsk/zT3uyjvYsSI7JXRkbyPwDjedJqfjwBM4gCLcBGAsYHQ/h120/saef-pink-whatsapp.png",
                     "dlink": "https://www.mediafire.com/file/dv6qryq3zdp4m4h/SAWhatsApp_Pink_%255BV3.80%255D.apk/file"
                 }
@@ -696,25 +696,25 @@
             "ftyp": [
                 {
                     "name": "الذهبي",
-                    "page_url": "",
+                    "page_url": "last-update-kaser-whatsapp-gold",
                     "img": "https://lh3.googleusercontent.com/-Bht3HupsIMI/X0lPPXJoq7I/AAAAAAAAAsE/sSOTF1JuwWMWb3fEl567p8HID_YSQHEwQCLcBGAsYHQ/h120/kaser-whatsapp-gold.png",
                     "dlink": "http://www.mediafire.com/file/u3rk9mnkefnlq2l/KB4WhatsApp_V8.40@By+alkaser.apk/file"
                 },
                 {
                     "name": "الازرق",
-                    "page_url": "",
+                    "page_url": "last-update-kaser-whatsapp-blue",
                     "img": "https://1.bp.blogspot.com/-elyHakUHT4Y/XzLnv0h6UtI/AAAAAAAAAik/WocUwLm1ZwcHFh1NVXfZD412T2f9rKeRwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2584%25D9%2583%25D8%25A7%25D8%25B3%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B2%25D8%25B1%25D9%2582.png",
                     "dlink": "http://www.mediafire.com/file/hj0lih2p53s0nvq/KBWhatsApp_V8.40@By+alkaser.apk/file"
                 },
                 {
                     "name": "الاحمر",
-                    "page_url": "",
+                    "page_url": "last-update-kaser-whatsapp-red",
                     "img": "https://1.bp.blogspot.com/-z3HLw9UPiDw/XzLnvUQPgMI/AAAAAAAAAic/tX3rGHl69GcF4LRDfbzz1oaBmg_WOst9QCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2584%25D9%2583%25D8%25A7%25D8%25B3%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AD%25D9%2585%25D8%25B1.png",
                     "dlink": "http://www.mediafire.com/file/i3ufspr9tn9evb7/KB3WhatsApp_V8.40@By+alkaser.apk/file"
                 },
                 {
                     "name": "الاسود",
-                    "page_url": "",
+                    "page_url": "last-update-kaser-whatsapp-black",
                     "img": "https://lh3.googleusercontent.com/-RVYsON4GMAI/X0lPF9QGiTI/AAAAAAAAAsA/vlo0FB9I1xIzGQHKed1Y70Ui7ts1xtOEQCLcBGAsYHQ/h120/kaser-whatsapp-black.pngg",
                     "dlink": "http://www.mediafire.com/file/8lo4snbiw9veira/KB2WhatsApp_V8.40@By+alkaser.apk/fil"
                 }
@@ -735,7 +735,7 @@
             "ftyp": [
                 {
                     "name": "واتساب الملك",
-                    "page_url": "",
+                    "page_url": "last-update-ki-whatsapp",
                     "img": "https://1.bp.blogspot.com/-NMYun45yK5k/XzLnvrEeXRI/AAAAAAAAAig/NUnPxz4gHJEIYZOMhERF05FYHdx7ZSQ1ACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2584%25D9%2585%25D9%2584%25D9%2583.png",
                     "dlink": "http://www.mediafire.com/file/ro5pxza3fwya2dr/KIWhatsApp-V8.40@by+king.apk/file"
                 }
@@ -757,7 +757,7 @@
             "ftyp": [
                 {
                     "name": "واتساب الملكة",
-                    "page_url": "",
+                    "page_url": "last-update-qu-whatsapp",
                     "img": "https://1.bp.blogspot.com/-R_Ip0Ks-hKE/XzLnwMvo8eI/AAAAAAAAAio/HuvRZb29_xsXnmwBYWLx5UNrDKgIRCRCwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2584%25D9%2585%25D9%2584%25D9%2583%25D8%25A9.png",
                     "dlink": "http://www.mediafire.com/file/pncl1cbpr5lk35k/QUWhatsApp-V8.40@by-king.apk/file"
                 }
@@ -779,7 +779,7 @@
             "ftyp": [
                 {
                     "name": "الوردي",
-                    "page_url": "",
+                    "page_url": "last-update-alamerat-whatsapp-pink",
                     "img": "https://1.bp.blogspot.com/-Op7fvC4xxmQ/XzLntt3FCGI/AAAAAAAAAiE/xulfCHVNikoSVxY-MBLFHK4ht5U5KtgpwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%2584%25D8%25A7%25D9%2585%25D9%258A%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D9%2588%25D8%25B1%25D8%25AF%25D9%258A.png",
                     "dlink": "http://www.mediafire.com/file/zz7hmsh6sqjps2d/%2528v16%2529_LVWA_%25D8%25A7%25D9%2584%25D8%25A7%25D9%2585%25D9%258A%25D8%25B1%25D8%25A7%25D8%25AA.apk/file"
                 }
@@ -874,36 +874,37 @@
             "ftyp": [
                 {
                     "name": "بديل الرسمي",
+                    "page_url": "last-update-alaskar-whatsapp",
                     "img": "https://lh3.googleusercontent.com/-TpP9bgBweG4/X1JX10OcqkI/AAAAAAAAAuo/tfHZuUy_sUg9woapoLWEauO0rYTPGKZTACLcBGAsYHQ/h120/alaskar.png",
                     "dlink": "http://www.mediafire.com/file/rhml6i8amcm0v28/alaskarplus-v1.40-By-mahmoud.apk/file"
                 },
                 {
                     "name": "الذهبي",
-                    "page_url": "",
+                    "page_url": "last-update-alaskar-whatsapp-gold",
                     "img": "https://lh3.googleusercontent.com/-PFjeJeTXkko/X1JY1I1n4AI/AAAAAAAAAu0/53gz_d2GA0sfQi8zAGxfaGi-sxnvXDeTwCLcBGAsYHQ/h120/alaskar-gold.png",
                     "dlink": "http://www.mediafire.com/file/l8v1jqktrb1whcc/alaskarGold-Fix-By_mahmoud-7.21.apk/file"
                 },
                 {
                     "name": "الاحمر",
-                    "page_url": "",
+                    "page_url": "last-update-alaskar-whatsapp-red",
                     "img": "https://lh3.googleusercontent.com/-9SKanbVrDXM/X1JatUi6geI/AAAAAAAAAvc/DFAfWnaYcHYu5JDU2zy3eYWP88MUpElOwCLcBGAsYHQ/h120/alaskar-red.png",
                     "dlink": "http://www.mediafire.com/file/jaftk1k9qy4oazo/alaskar3-Fix-By_mahmoud-4.96.apk/file"
                 },
                 {
                     "name": "الازرق",
-                    "page_url": "",
+                    "page_url": "last-update-alaskar-whatsapp-blue",
                     "img": "https://lh3.googleusercontent.com/-VBgoowbmCpU/X1JZi7c5KuI/AAAAAAAAAu8/zCKIGoaqtmYbDAvnCuYG1ojCa4uDW8uIACLcBGAsYHQ/h120/alaskar-blue.png",
                     "dlink": "http://www.mediafire.com/file/w5jpdwcb6i52ydw/alaskar1-Fix-By_mahmoud-4.96.apk/file"
                 },
                 {
                     "name": "الاخضر",
-                    "page_url": "",
+                    "page_url": "last-update-alaskar-whatsapp-green",
                     "img": "https://lh3.googleusercontent.com/-aTYcQKDkSIQ/X1JaQNz7WYI/AAAAAAAAAvU/8ZvWMr1cFws1rIs1FIOf8dN42QMs9QZIACLcBGAsYHQ/h120/alaskar.png",
                     "dlink": "http://www.mediafire.com/file/4le8tiv17ushwsc/alaskar4-Fix-By_mahmoud-4.96.apk/file"
                 },
                 {
                     "name": "الزهري",
-                    "page_url": "",
+                    "page_url": "last-update-alaskar-whatsapp-pink",
                     "img": "https://lh3.googleusercontent.com/-bV7KS2xASf8/X1JbHscMF1I/AAAAAAAAAvo/8jUjEtyCPoQ0eFAAbW1t7vATl83j1EzawCLcBGAsYHQ/h120/alaskar-pink.png",
                     "dlink": "http://www.mediafire.com/file/wavpmna02chx8m4/alaskar2-Fix-By_mahmoud-4.96.apk/file"
                 }
@@ -925,19 +926,19 @@
             "ftyp": [
                 {
                     "name": "الذهبي",
-                    "page_url": "",
+                    "page_url": "last-update-hazam-whatsapp-gold",
                     "img": "https://lh3.googleusercontent.com/-tP6Wwd4YJdY/X1JG-BFJXjI/AAAAAAAAAto/a-Ltu3deoTY1MRQ1kT2khCznUemewKubQCLcBGAsYHQ/h120/hazam-gold.png",
                     "dlink": "https://www.mediafire.com/file/eb8808s9bwgkqic/HT2WhatsAppV17_+@_HAZZAM+Mods.apk/file"
                 },
                 {
                     "name": "البنفسجي",
-                    "page_url": "",
+                    "page_url": "last-update-hazam-whatsapp-pink",
                     "img": "https://lh3.googleusercontent.com/-ksxGMr2hOLU/X1JJCgHW1aI/AAAAAAAAAuE/5E8HKszKyBoRbvOd-Q3YhJb0LBh_CIXMQCLcBGAsYHQ/h120/hazam-banafsge.png",
                     "dlink": "https://www.mediafire.com/file/dsyhdv1dl1a0voh/HT3WhatsAppV17+_@_+HAZZAM+Mods.apk/file"
                 },
                 {
                     "name": "الاخضر",
-                    "page_url": "",
+                    "page_url": "last-update-hazam-whatsapp-green",
                     "img": "https://lh3.googleusercontent.com/-2gkF5SfqNCo/X1JJgA1FswI/AAAAAAAAAuM/2iu9vACmW4IIqmHRK9vNTSykiP3QH9XOACLcBGAsYHQ/h120/hazam-green.png",
                     "dlink": "https://www.mediafire.com/file/fx58dqgbujntdh4/HTWhatsAppV17+@++HAZZAM+Mods.apk/file"
                 }
@@ -959,19 +960,19 @@
             "ftyp": [
                 {
                     "name": "النسخة الاولى",
-                    "page_url": "",
+                    "page_url": "last-update-aero-whatsapp-1",
                     "img": "https://1.bp.blogspot.com/-OAz4zNqJYok/XzLnwm9thyI/AAAAAAAAAis/uFSFInaAryoTQ90VepehMmeLqphFU44WACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%258A%25D8%25B1%25D9%2588.png",
                     "dlink": "https://www.mediafire.com/file/gnxr303bky6ucmt/WP_Aero_V8.36_Hazar.apk/file"
                 },
                 {
                     "name": "النسخة الثانية",
-                    "page_url": "",
+                    "page_url": "last-update-aero-whatsapp-2",
                     "img": "https://1.bp.blogspot.com/-OAz4zNqJYok/XzLnwm9thyI/AAAAAAAAAis/uFSFInaAryoTQ90VepehMmeLqphFU44WACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%258A%25D8%25B1%25D9%2588.png",
                     "dlink": "https://www.mediafire.com/file/lpdqf49vevs3kdm/WP_Aero_V8.36_Hazar_2.apk/file"
                 },
                 {
                     "name": "النسخة الثالثة",
-                    "page_url": "",
+                    "page_url": "last-update-aero-whatsapp-3",
                     "img": "https://1.bp.blogspot.com/-OAz4zNqJYok/XzLnwm9thyI/AAAAAAAAAis/uFSFInaAryoTQ90VepehMmeLqphFU44WACLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A7%25D9%258A%25D8%25B1%25D9%2588.png",
                     "dlink": "https://www.mediafire.com/file/02wlcd2h65kp3d5/WP_Aero_V8.36_Hazar_3.apk/file"
                 }
