@@ -1,6 +1,6 @@
 {
     "data": [
-        {    "epsodenum":"1",
+        {    "epsodenum":"2",
             "comp_id": "1",
             "statu": "0",
             "update": "01/09/2020",
@@ -9,8 +9,8 @@
             "imgurl": "abcd",
 	    "hedlin1":"abcd",
 	    "hedlin2":"abcd",
-            "display1":"",
-	    "display2":"",
+            "display1":"none",
+	    "display2":"none",
             "alldlink": [
                 {
                     "name": "Mobile",
@@ -18,19 +18,19 @@
                     "dlink": "abcd"                },
                 {
                     "name": "LOWEST",
-	            "display":"none",
+	            "display":"",
                     "dlink": "abcd"                },
                 {
                     "name": "LOW",
-	            "display":"none",
+	            "display":"",
                     "dlink": "abcd"                },
                 {
                     "name": "SD",
-	            "display":"none",
+	            "display":"",
                     "dlink": "abcd"                },
                 {
                     "name": "Hd",
-	            "display":"none",
+	            "display":"non",
                     "dlink": "abcd"               
                 }
 			],
@@ -49,7 +49,7 @@
 	    "hedlin1":"",
 	    "hedlin2":"",
             "display1":"",
-	    "display2":"none",
+	    "display2":"non",
             "alldlink": [
                 {
                     "name": "Mobile",
