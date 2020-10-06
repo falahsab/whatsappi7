@@ -1,0 +1,69 @@
+{
+    "data": [
+        {
+            "comp_id": "1",
+            "statu": "0",
+            "update": "01/09/2020",
+            "seson": "2",
+            "pageurl": "gold",
+            "imgurl": "abcd",
+			"hedlin1":"";
+			"hedlin2":"";
+            "dlink": [
+                {
+                    "name": "Mobile",
+                    "dlink": "abcd"                },
+                {
+                    "name": "LOWEST",
+                    "dlink": "abcd"                },
+                {
+                    "name": "LOW",
+                    "dlink": "abcd"                },
+                {
+                    "name": "SD",
+                    "dlink": "abcd"                },
+                {
+                    "name": "Hd",
+                    "dlink": "abcd"
+                }
+			],
+            "theme_color": "#5998dc",
+            "type": "tournament",
+            "featured": "1",
+            "current_season": "{\"the_season\": \"/\", \"has_standings\": 1, \"has_scorers\": 2, \"has_s1\": 1}"
+        },
+        {
+            "comp_id": "2",
+            "statu": "0",
+            "update": "01/09/2020",
+            "seson": "2",
+            "pageurl": "gold",
+            "imgurl": "abcd",
+			"hedlin1":"";
+			"hedlin2":"";
+            "dlink": [
+                {
+                    "name": "Mobile",
+                    "dlink": "abcd"                },
+                {
+                    "name": "LOWEST",
+                    "dlink": "abcd"                },
+                {
+                    "name": "LOW",
+                    "dlink": "abcd"                },
+                {
+                    "name": "SD",
+                    "dlink": "abcd"                },
+                {
+                    "name": "Hd",
+                    "dlink": "abcd"
+                }
+			],
+            "theme_color": "#5998dc",
+            "type": "tournament",
+            "featured": "1",
+            "current_season": "{\"the_season\": \"/\", \"has_standings\": 1, \"has_scorers\": 2, \"has_s1\": 1}"
+        }		
+
+    ]
+}
