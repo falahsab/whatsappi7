@@ -3,7 +3,7 @@
         {    "epsodenum":"2",
             "comp_id": "1",
             "statu": "0",
-            "update": "01/09/2020",
+            "update": "07/10/2020",
             "seson": "2",
             "pageurl": "gold",
             "imgurl": "abcd",
@@ -42,7 +42,7 @@
         {
             "comp_id": "2",
             "statu": "0",
-            "update": "01/09/2020",
+            "update": "14/10/2020",
             "seson": "2",
             "pageurl": "gold",
             "imgurl": "abcd",
@@ -53,11 +53,11 @@
             "alldlink": [
                 {
                     "name": "Mobile",
-                    "display":"none",
+                    "display":"non",
                     "dlink": "abcd"                },
                 {
                     "name": "LOWEST",
-	            "display":"none",
+	            "display":"non",
                     "dlink": "abcd"                },
                 {
                     "name": "LOW",
