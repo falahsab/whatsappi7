@@ -13,19 +13,24 @@
             "alldlink": [
                 {
                     "name": "Mobile",
+                    "display":"none",
                     "dlink": "abcd"                },
                 {
                     "name": "LOWEST",
+	            "display":"none",
                     "dlink": "abcd"                },
                 {
                     "name": "LOW",
+	            "display":"none",
                     "dlink": "abcd"                },
                 {
                     "name": "SD",
+	            "display":"none",
                     "dlink": "abcd"                },
                 {
                     "name": "Hd",
-                    "dlink": "abcd"
+	            "display":"none",
+                    "dlink": "abcd"               
                 }
 			],
             "theme_color": "#5998dc",
@@ -46,19 +51,24 @@
             "alldlink": [
                 {
                     "name": "Mobile",
+                    "display":"none",
                     "dlink": "abcd"                },
                 {
                     "name": "LOWEST",
+	            "display":"none",
                     "dlink": "abcd"                },
                 {
                     "name": "LOW",
+	            "display":"none",
                     "dlink": "abcd"                },
                 {
                     "name": "SD",
+	            "display":"none",
                     "dlink": "abcd"                },
                 {
                     "name": "Hd",
-                    "dlink": "abcd"
+	            "display":"none",
+                    "dlink": "abcd"               
                 }
 			],
             "theme_color": "#5998dc",
