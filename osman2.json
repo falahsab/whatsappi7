@@ -7,8 +7,9 @@
             "seson": "2",
             "pageurl": "gold",
             "imgurl": "abcd",
-			"hedlin1":"abcd",
-			"hedlin2":"abcd",
+	    "hedlin1":"abcd",
+	    "hedlin2":"abcd",
+            "display":"none",
             "alldlink": [
                 {
                     "name": "Mobile",
@@ -39,8 +40,9 @@
             "seson": "2",
             "pageurl": "gold",
             "imgurl": "abcd",
-			"hedlin1":"",
-			"hedlin2":"",
+	    "hedlin1":"",
+	    "hedlin2":"",
+	    "display":"none",
             "alldlink": [
                 {
                     "name": "Mobile",
