@@ -9,11 +9,12 @@
             "imgurl": "abcd",
 	    "hedlin1":"abcd",
 	    "hedlin2":"abcd",
-            "display":"",
+            "display1":"",
+	    "display2":"",
             "alldlink": [
                 {
                     "name": "Mobile",
-                    "display":"none",
+                    "display":"",
                     "dlink": "abcd"                },
                 {
                     "name": "LOWEST",
@@ -47,7 +48,8 @@
             "imgurl": "abcd",
 	    "hedlin1":"",
 	    "hedlin2":"",
-	    "display":"none",
+            "display1":"",
+	    "display2":"none",
             "alldlink": [
                 {
                     "name": "Mobile",
