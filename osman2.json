@@ -9,7 +9,7 @@
             "imgurl": "abcd",
 			"hedlin1":"abcd",
 			"hedlin2":"abcd",
-            "dlink": [
+            "alldlink": [
                 {
                     "name": "Mobile",
                     "dlink": "abcd"                },
@@ -41,7 +41,7 @@
             "imgurl": "abcd",
 			"hedlin1":"",
 			"hedlin2":"",
-            "dlink": [
+            "alldlink": [
                 {
                     "name": "Mobile",
                     "dlink": "abcd"                },
