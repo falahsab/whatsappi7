@@ -9,7 +9,7 @@
             "imgurl": "abcd",
 	    "hedlin1":"abcd",
 	    "hedlin2":"abcd",
-            "display":"none",
+            "display":"",
             "alldlink": [
                 {
                     "name": "Mobile",
