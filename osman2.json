@@ -16,23 +16,28 @@
             "alldlink": [
                 {
                     "name": "Mobile",
-                    "display":"non",
-                    "dlink": "https://vd249.mycdn.me/?expires=1602108755707&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.21.50&type=4&sig=1LyjGTrACgU&ct=4&urls=185.226.53.40&clientType=0&id=644147579557"                },
+                    "display":"none",
+                    "dlink": "aaa"                },
                 {
                     "name": "LOWEST",
-	            "display":"non",
-                    "dlink": "https://vd249.mycdn.me/?expires=1602108755707&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.21.50&type=0&sig=Kp8EqgSJhXk&ct=4&urls=185.226.53.40&clientType=0&id=644147579557"                },
+	            "display":"none",
+                    "dlink": "aaa"                },
                 {
                     "name": "LOW",
-	            "display":"non",
-                    "dlink": "https://vd249.mycdn.me/?expires=1602108755707&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.21.50&type=1&sig=cageCmqe_K4&ct=4&urls=185.226.53.40&clientType=0&id=644147579557"                },
+	            "display":"none",
+                    "dlink": "aaa"                },
                 {
                     "name": "SD",
-	            "display":"non",
-                    "dlink": "https://vd249.mycdn.me/?expires=1602108755707&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.21.50&type=2&sig=zKL22KRbT5Q&ct=4&urls=185.226.53.40&clientType=0&id=644147579557"                },
+	            "display":"none",
+                    "dlink": ""                },
                 {
                     "name": "Hd",
-	            "display":"non",
+	            "display":"none",
+                    "dlink": "abcd"               
+                },
+                {
+                    "name": "Full Hd",
+	            "display":"none",
                     "dlink": "abcd"               
                 }
 			]
