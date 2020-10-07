@@ -1,6 +1,6 @@
 {
     "data": [
-        {   "epsodenum":"1",
+        {   "epsodenum":"2",
             "comp_id": "1",
             "color":"#007bff",
 	    "hedlin":"جاري الترجمة ...",
@@ -10,9 +10,9 @@
 	    "ifarme1":"91AhtTfaI2E",
 	    "display2":"none",
 	    "ifarme2":"zGjfenLeCso",
-	    "live":"non",
+	    "live":"none",
             "offlin":"none",
-	    "headimg":"none",
+	    "headimg":"non",
 	    "display3":"non",
 	    "ifarme3":"https://3isk.tv/?embed=1&amp;mr-id=8385&amp;mr-type=2",	 
 
@@ -48,17 +48,17 @@
  { 
             "comp_id": "2",
             "color":"#007bff",
-	    "hedlin":"موعد نزول الحلقة",
-            "update": "07/10/2020",
+	    "hedlin":"موعد عرض الحلقة",
+            "update": "14/10/2020",
             "seson": "2",
-            "display1":"none",
-	    "ifarme1":"91AhtTfaI2E",
+            "display1":"non",
+	    "ifarme1":"AYD5kg59OOA",
 	    "display2":"none",
-	    "ifarme2":"zGjfenLeCso",
-	    "live":"non",
+	    "ifarme2":"abcd",
+	    "live":"none",
             "offlin":"none",
-	    "headimg":"none",
-	    "display3":"non",
+	    "headimg":"non",
+	    "display3":"none",
 	    "ifarme3":"https://3isk.tv/?embed=1&amp;mr-id=8385&amp;mr-type=2",	 
 
             "alldlink": [
