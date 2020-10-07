@@ -1,45 +1,41 @@
 {
     "data": [
-        {    "epsodenum":"1",
+        {   "epsodenum":"1",
             "comp_id": "1",
             "color":"#007bff",
 	    "hedlin":"موعد نزول الحلقة",
             "update": "07/10/2020",
             "seson": "2",
-            "pageurl": "gold",
-            "imgurl": "abcd",
-	    "hedlinifarme1":"الاعلان الاول",
-	    "ifarme1":"91AhtTfaI2E",
-	    "ifarme2":"https://3isk.tv/?embed=1&amp;mr-id=4899&amp;mr-type=2",	 
             "display1":"non",
+	    "ifarme1":"91AhtTfaI2E",
 	    "display2":"non",
+	    "ifarme2":"https://3isk.tv/?embed=1&amp;mr-id=4899&amp;mr-type=2",
+	    "display3":"non",
+	    "ifarme3":"https://3isk.tv/?embed=1&amp;mr-id=4899&amp;mr-type=2",	 
+
             "alldlink": [
                 {
                     "name": "Mobile",
-                    "display":"",
+                    "display":"non",
                     "dlink": "https://vd249.mycdn.me/?expires=1602108755707&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.21.50&type=4&sig=1LyjGTrACgU&ct=4&urls=185.226.53.40&clientType=0&id=644147579557"                },
                 {
                     "name": "LOWEST",
-	            "display":"",
+	            "display":"none",
                     "dlink": "https://vd249.mycdn.me/?expires=1602108755707&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.21.50&type=0&sig=Kp8EqgSJhXk&ct=4&urls=185.226.53.40&clientType=0&id=644147579557"                },
                 {
                     "name": "LOW",
-	            "display":"",
+	            "display":"none",
                     "dlink": "https://vd249.mycdn.me/?expires=1602108755707&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.21.50&type=1&sig=cageCmqe_K4&ct=4&urls=185.226.53.40&clientType=0&id=644147579557"                },
                 {
                     "name": "SD",
-	            "display":"",
+	            "display":"none",
                     "dlink": "https://vd249.mycdn.me/?expires=1602108755707&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.21.50&type=2&sig=zKL22KRbT5Q&ct=4&urls=185.226.53.40&clientType=0&id=644147579557"                },
                 {
                     "name": "Hd",
 	            "display":"none",
                     "dlink": "abcd"               
                 }
-			],
-            "theme_color": "#5998dc",
-            "type": "tournament",
-            "featured": "1",
-            "current_season": "{\"the_season\": \"/\", \"has_standings\": 1, \"has_scorers\": 2, \"has_s1\": 1}"
+			]
         },
         {
             "comp_id": "2",
