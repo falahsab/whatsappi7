@@ -45,45 +45,96 @@
                 }
 			]
         },
-        {
+ { 
             "comp_id": "2",
-            "statu": "0",
-            "update": "14/10/2020",
+            "color":"#007bff",
+	    "hedlin":"موعد نزول الحلقة",
+            "update": "07/10/2020",
             "seson": "2",
-            "pageurl": "gold",
-            "imgurl": "abcd",
-	    "hedlin1":"",
-	    "hedlin2":"",
-            "display1":"",
-	    "display2":"non",
+            "display1":"none",
+	    "ifarme1":"91AhtTfaI2E",
+	    "display2":"none",
+	    "ifarme2":"zGjfenLeCso",
+	    "live":"non",
+            "offlin":"none",
+	    "headimg":"none",
+	    "display3":"non",
+	    "ifarme3":"https://3isk.tv/?embed=1&amp;mr-id=8385&amp;mr-type=2",	 
+
             "alldlink": [
                 {
                     "name": "Mobile",
-                    "display":"non",
-                    "dlink": "abcd"                },
+                    "display":"none",
+                    "dlink": "aaa"                },
                 {
                     "name": "LOWEST",
-	            "display":"non",
-                    "dlink": "abcd"                },
+	            "display":"none",
+                    "dlink": "aaa"                },
                 {
                     "name": "LOW",
 	            "display":"none",
-                    "dlink": "abcd"                },
+                    "dlink": "aaa"                },
                 {
                     "name": "SD",
 	            "display":"none",
-                    "dlink": "abcd"                },
+                    "dlink": ""                },
                 {
                     "name": "Hd",
 	            "display":"none",
                     "dlink": "abcd"               
+                },
+                {
+                    "name": "Full Hd",
+	            "display":"none",
+                    "dlink": "abcd"               
                 }
-			],
-            "theme_color": "#5998dc",
-            "type": "tournament",
-            "featured": "1",
-            "current_season": "{\"the_season\": \"/\", \"has_standings\": 1, \"has_scorers\": 2, \"has_s1\": 1}"
-        }		
+			]
+        },
+ {   
+            "comp_id": "3",
+            "color":"#007bff",
+	    "hedlin":"موعد نزول الحلقة",
+            "update": "07/10/2020",
+            "seson": "2",
+            "display1":"none",
+	    "ifarme1":"91AhtTfaI2E",
+	    "display2":"none",
+	    "ifarme2":"zGjfenLeCso",
+	    "live":"non",
+            "offlin":"none",
+	    "headimg":"none",
+	    "display3":"non",
+	    "ifarme3":"https://3isk.tv/?embed=1&amp;mr-id=8385&amp;mr-type=2",	 
 
+            "alldlink": [
+                {
+                    "name": "Mobile",
+                    "display":"none",
+                    "dlink": "aaa"                },
+                {
+                    "name": "LOWEST",
+	            "display":"none",
+                    "dlink": "aaa"                },
+                {
+                    "name": "LOW",
+	            "display":"none",
+                    "dlink": "aaa"                },
+                {
+                    "name": "SD",
+	            "display":"none",
+                    "dlink": ""                },
+                {
+                    "name": "Hd",
+	            "display":"none",
+                    "dlink": "abcd"               
+                },
+                {
+                    "name": "Full Hd",
+	            "display":"none",
+                    "dlink": "abcd"               
+                }
+			]
+        }
+    
     ]
 }
