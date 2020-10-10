@@ -62,28 +62,28 @@
             "alldlink": [
                 {
                     "name": "Mobile",
-                    "display":"non",
+                    "display":"none",
                     "dlink": "abc"                },
                 {
                     "name": "LOWEST",
-	            "display":"non",
+	            "display":"none",
                     "dlink": "abc"                },
                 {
                     "name": "LOW",
-	            "display":"non",
+	            "display":"none",
                     "dlink": "abc"                },
                 {
                     "name": "SD",
-	            "display":"non",
+	            "display":"none",
                     "dlink": "abc"                },
                 {
                     "name": "Hd",
-	            "display":"non",
+	            "display":"none",
                     "dlink": "abc"               
                 },
                 {
                     "name": "Full Hd",
-	            "display":"non",
+	            "display":"none",
                     "dlink": "abc"               
                 }
 			]
@@ -106,28 +106,28 @@
             "alldlink": [
                 {
                     "name": "Mobile",
-                    "display":"non",
+                    "display":"none",
                     "dlink": "abc"                },
                 {
                     "name": "LOWEST",
-	            "display":"non",
+	            "display":"none",
                     "dlink": "abc"                },
                 {
                     "name": "LOW",
-	            "display":"non",
+	            "display":"none",
                     "dlink": "abc"                },
                 {
                     "name": "SD",
-	            "display":"non",
+	            "display":"none",
                     "dlink": "abc"                },
                 {
                     "name": "Hd",
-	            "display":"non",
+	            "display":"none",
                     "dlink": "abc"               
                 },
                 {
                     "name": "Full Hd",
-	            "display":"non",
+	            "display":"none",
                     "dlink": "abc"               
                 }
 			]
