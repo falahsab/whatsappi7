@@ -51,14 +51,14 @@
 	    "hedlin":"موعد عرض الحلقة ",
             "update": "14/10/2020",
             "seson": "2",
-            "display1":"non",
+            "display1":"none",
 	    "ifarme1":"VUkXj8U0qUA",
-	    "display2":"non",
+	    "display2":"none",
 	    "ifarme2":"ee2s16",
-	    "live":"none", "offline":"none", "headlin":"non", "trans":"none",
+	    "live":"non", "offline":"none", "headlin":"none", "trans":"none",
 	     "case_img":"headlin.png",
-	    "display3":"none",
-	    "ifarme3":"https://3isk.tv/?embed=1&amp;mr-id=8385&amp;mr-type=2",	 
+	    "display3":"non",
+	    "ifarme3":"https://3isk.tv/?embed=1&amp;mr-id=53639&amp;mr-type=2",	 
 
             "alldlink": [
                 {
