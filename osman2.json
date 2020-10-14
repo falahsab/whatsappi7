@@ -59,39 +59,40 @@
 	     "case_img":"headlin.png",
 	    "display3":"non",
 	    "ifarme3":"https://3isk.tv/?embed=1&amp;mr-id=53639&amp;mr-type=2",	 
-             "exprise":"",
+             "exprise":"1602779699773",
+	     "idvid":"976952298001",
             "alldlink": [
                 {
                     "name": "Mobile",
                     "display":"none",
 		    "type":"4",
-                    "dlink": "abc"                },
+                    "dlink": "vXJjjaj8n4"                },
                 {
                     "name": "LOWEST",
 	            "display":"none",
 		    "type":"0",
-                    "dlink": "abc"                },
+                    "dlink": "BZm-diQhoII"                },
                 {
                     "name": "LOW",
 	            "display":"none",
 		    "type":"1",
-                    "dlink": "abc"                },
+                    "dlink": "cdlCdWl0_kI"                },
                 {
                     "name": "SD",
 	            "display":"none",
 		    "type":"2",
-                    "dlink": "abc"                },
+                    "dlink": "p6Jm4UmtxZQ"                },
                 {
                     "name": "Hd",
 	            "display":"none",
 		    "type":"3",
-                    "dlink": "abc"               
+                    "dlink": "BEx0M6LZxus"               
                 },
                 {
                     "name": "Full Hd",
 	            "display":"none",
 		    "type":"5",
-                    "dlink": "abc"               
+                    "dlink": "t5b3v50SKU"               
                 }
 			]
         },
