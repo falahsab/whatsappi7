@@ -59,32 +59,38 @@
 	     "case_img":"headlin.png",
 	    "display3":"non",
 	    "ifarme3":"https://3isk.tv/?embed=1&amp;mr-id=53639&amp;mr-type=2",	 
-
+             "exprise":"",
             "alldlink": [
                 {
                     "name": "Mobile",
                     "display":"none",
+		    "type":"4",
                     "dlink": "abc"                },
                 {
                     "name": "LOWEST",
 	            "display":"none",
+		    "type":"0",
                     "dlink": "abc"                },
                 {
                     "name": "LOW",
 	            "display":"none",
+		    "type":"1",
                     "dlink": "abc"                },
                 {
                     "name": "SD",
 	            "display":"none",
+		    "type":"2",
                     "dlink": "abc"                },
                 {
                     "name": "Hd",
 	            "display":"none",
+		    "type":"3",
                     "dlink": "abc"               
                 },
                 {
                     "name": "Full Hd",
 	            "display":"none",
+		    "type":"5",
                     "dlink": "abc"               
                 }
 			]
