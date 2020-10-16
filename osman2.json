@@ -59,40 +59,46 @@
 	     "case_img":"headlin.png",
 	    "display3":"non",
 	    "ifarme3":"https://3isk.tv/?embed=2&amp;mr-id=53639&amp;mr-type=2",	 
-             "exprise":"1602779699773",
-	     "idvid":"976952298001",
-	     "vd":"",
+             "exprise":"1602953352114",
+	     "idvid":"915049548343",
+	     "vd":"320",
             "alldlink": [
                 {
                     "name": "Mobile",
                     "display":"non",
 		    "type":"4",
+		    "sig":"7se3ltl2ndE",
                     "dlink": "https://vd320.mycdn.me/?expires=1602953352114&srcIp=195.201.40.190&srcAg=CHROME&ms=185.226.53.29&type=4&sig=7se3ltl2ndE&ct=4&urls=45.136.21.32&clientType=0&id=915049548343"                },
                 {
                     "name": "LOWEST",
 	            "display":"non",
 		    "type":"0",
+			"sig":"7se3ltl2ndE",
                     "dlink": "https://vd320.mycdn.me/?expires=1602953352114&srcIp=195.201.40.190&srcAg=CHROME&ms=185.226.53.29&type=0&sig=UxGtxnojidM&ct=4&urls=45.136.21.32&clientType=0&id=915049548343"                },
                 {
                     "name": "LOW",
 	            "display":"non",
 		    "type":"1",
+			"sig":"7se3ltl2ndE",
                     "dlink": "https://vd320.mycdn.me/?expires=1602953352114&srcIp=195.201.40.190&srcAg=CHROME&ms=185.226.53.29&type=1&sig=y4jW_9llR9c&ct=4&urls=45.136.21.32&clientType=0&id=915049548343"                },
                 {
                     "name": "SD",
 	            "display":"non",
 		    "type":"2",
+			"sig":"7se3ltl2ndE",
                     "dlink": "https://vd320.mycdn.me/?expires=1602953352114&srcIp=195.201.40.190&srcAg=CHROME&ms=185.226.53.29&type=2&sig=EngDQeXR3xo&ct=4&urls=45.136.21.32&clientType=0&id=915049548343"                },
                 {
                     "name": "Hd",
 	            "display":"non",
 		    "type":"3",
+			"sig":"EngDQeXR3xo",
                     "dlink": "https://vd320.mycdn.me/?expires=1602953352114&srcIp=195.201.40.190&srcAg=CHROME&ms=185.226.53.29&type=3&sig=LdTJBT2iAEc&ct=4&urls=45.136.21.32&clientType=0&id=915049548343"               
                 },
                 {
                     "name": "Full Hd",
 	            "display":"none",
 		    "type":"5",
+			"sig":"7se3ltl2ndE",
                     "dlink": "t5b3v50SKU"               
                 }
 			]
