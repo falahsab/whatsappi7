@@ -1,6 +1,6 @@
 {
     "data": [
-        {   "epsodenum":"2",
+        {   "epsodenum":"3",
             "comp_id": "1",
             "color":"#007bff",
 	    "hedlin":"تم عرض الحلقة في ",
@@ -61,32 +61,33 @@
 	    "ifarme3":"https://3isk.tv/?embed=1&amp;mr-id=53639&amp;mr-type=2",	 
              "exprise":"1602779699773",
 	     "idvid":"976952298001",
+	     "vd":"",
             "alldlink": [
                 {
                     "name": "Mobile",
                     "display":"non",
 		    "type":"4",
-                    "dlink": "https://vd185.mycdn.me/?expires=1602804809833&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.21.32&type=4&sig=hKlyAkknjKs&ct=4&urls=45.136.22.43&clientType=0&id=915049548343"                },
+                    "dlink": "https://vd320.mycdn.me/?expires=1602953352114&srcIp=195.201.40.190&srcAg=CHROME&ms=185.226.53.29&type=4&sig=7se3ltl2ndE&ct=4&urls=45.136.21.32&clientType=0&id=915049548343"                },
                 {
                     "name": "LOWEST",
 	            "display":"non",
 		    "type":"0",
-                    "dlink": "https://vd185.mycdn.me/?expires=1602804809833&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.21.32&type=0&sig=lCj9_G91Tog&ct=4&urls=45.136.22.43&clientType=0&id=915049548343"                },
+                    "dlink": "https://vd320.mycdn.me/?expires=1602953352114&srcIp=195.201.40.190&srcAg=CHROME&ms=185.226.53.29&type=0&sig=UxGtxnojidM&ct=4&urls=45.136.21.32&clientType=0&id=915049548343"                },
                 {
                     "name": "LOW",
 	            "display":"non",
 		    "type":"1",
-                    "dlink": "https://vd185.mycdn.me/?expires=1602804809833&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.21.32&type=1&sig=dcwII3TuLBM&ct=4&urls=45.136.22.43&clientType=0&id=915049548343"                },
+                    "dlink": "https://vd320.mycdn.me/?expires=1602953352114&srcIp=195.201.40.190&srcAg=CHROME&ms=185.226.53.29&type=1&sig=y4jW_9llR9c&ct=4&urls=45.136.21.32&clientType=0&id=915049548343"                },
                 {
                     "name": "SD",
 	            "display":"non",
 		    "type":"2",
-                    "dlink": "https://vd185.mycdn.me/?expires=1602804809833&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.21.32&type=2&sig=_5sco-T7S5I&ct=4&urls=45.136.22.43&clientType=0&id=915049548343"                },
+                    "dlink": "https://vd320.mycdn.me/?expires=1602953352114&srcIp=195.201.40.190&srcAg=CHROME&ms=185.226.53.29&type=2&sig=EngDQeXR3xo&ct=4&urls=45.136.21.32&clientType=0&id=915049548343"                },
                 {
                     "name": "Hd",
 	            "display":"non",
 		    "type":"3",
-                    "dlink": "https://vd185.mycdn.me/?expires=1602804809833&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.21.32&type=3&sig=azfJHz-p2KY&ct=4&urls=45.136.22.43&clientType=0&id=915049548343"               
+                    "dlink": "https://vd320.mycdn.me/?expires=1602953352114&srcIp=195.201.40.190&srcAg=CHROME&ms=185.226.53.29&type=3&sig=LdTJBT2iAEc&ct=4&urls=45.136.21.32&clientType=0&id=915049548343"               
                 },
                 {
                     "name": "Full Hd",
@@ -103,9 +104,9 @@
             "update": "21/10/2020",
             "seson": "2",
             "display1":"non",
-	    "ifarme1":"VUkXj8U0qUA",
+	    "ifarme1":"8AARhD24Lzc",
 	    "display2":"none",
-	    "ifarme2":"zGjfenLeCso",
+	    "ifarme2":"8AARhD24Lzc",
 	    "live":"none", "offline":"none", "headlin":"non", "trans":"none",
 	     "case_img":"headlin.png",
 	    "display3":"none",
