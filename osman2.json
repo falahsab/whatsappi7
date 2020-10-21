@@ -116,9 +116,51 @@
 	    "ifarme1":"u8plkv",
 	    "display2":"none",
 	    "ifarme2":"mqqq50",
-	    "live":"none", "offline":"none", "headlin":"non", "trans":"none",
+	    "live":"non", "offline":"none", "headlin":"none", "trans":"none",
 	     "case_img":"headlin.png",
 	    "display3":"non",
+	    "ifarme3":"https://3isk.tv/?embed=1&amp;mr-id=54085&amp;mr-type=2",	 
+
+            "alldlink": [
+                {
+                    "name": "Mobile",
+                    "display":"none",
+                    "dlink": "abc"                },
+                {
+                    "name": "LOWEST",
+	            "display":"none",
+                    "dlink": "abc"                },
+                {
+                    "name": "LOW",
+	            "display":"none",
+                    "dlink": "abc"                },
+                {
+                    "name": "SD",
+	            "display":"none",
+                    "dlink": "abc"                },
+                {
+                    "name": "Hd",
+	            "display":"none",
+                    "dlink": "abc"               
+                },
+                {
+                    "name": "Full Hd",
+	            "display":"none",
+                    "dlink": "abc"               
+                },
+ { 
+            "comp_id": "4",
+            "color":"#2ce232",
+	    "hedlin":"موعد عرض الحلقة ",
+            "update": "28/10/2020",
+            "seson": "2",
+            "display1":"non",
+	    "ifarme1":"u8plkv",
+	    "display2":"none",
+	    "ifarme2":"mqqq50",
+	    "live":"none", "offline":"none", "headlin":"non", "trans":"none",
+	     "case_img":"headlin.png",
+	    "display3":"none",
 	    "ifarme3":"https://3isk.tv/?embed=1&amp;mr-id=54085&amp;mr-type=2",	 
 
             "alldlink": [
