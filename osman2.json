@@ -146,7 +146,9 @@
                 {
                     "name": "Full Hd",
 	            "display":"none",
-                    "dlink": "abc"               
+                    "dlink": "abc"  
+			}
+			]
                 },
  { 
             "comp_id": "4",
