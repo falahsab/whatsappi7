@@ -19,7 +19,7 @@
             "alldlink": [
                 {
                     "name": "Mobile",
-                    "display":"non",
+                    "display":"none",
                     "dlink": "https://vd281.mycdn.me/?expires=1602779699773&srcIp=195.201.40.190&srcAg=CHROME&ms=185.226.52.31&type=4&sig=-vXJjjaj8n4&ct=4&urls=45.136.22.23&clientType=0&id=976952298001"                },
                 {
                     "name": "LOWEST",
@@ -153,14 +153,14 @@
  { 
             "comp_id": "4",
             "color":"#2ce232",
-	    "hedlin":"موعد عرض الحلقة ",
+	    "hedlin":"تم عرض الحلقة ",
             "update": "28/10/2020",
             "seson": "2",
             "display1":"none",
 	    "ifarme1":"h0uzin",
 	    "display2":"none",
 	    "ifarme2":"yiej53",
-	    "live":"non", "offline":"none", "headlin":"none", "trans":"none",
+	    "live":"none", "offline":"non", "headlin":"none", "trans":"none",
 	     "case_img":"headlin.png",
 	    "display3":"non",
 	    "ifarme3":"https://3isk.tv/?embed=1&amp;mr-id=54545&amp;mr-type=2",	 
@@ -168,24 +168,24 @@
             "alldlink": [
                 {
                     "name": "Mobile",
-                    "display":"none",
-                    "dlink": "abc"                },
+                    "display":"non",
+                    "dlink": "https://vd373.mycdn.me/?expires=1604014717482&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.22.78&type=4&sig=rjSvc_MCS-4&ct=4&urls=45.136.21.16&clientType=0&id=931299199543"                },
                 {
                     "name": "LOWEST",
-	            "display":"none",
-                    "dlink": "abc"                },
+	            "display":"non",
+                    "dlink": "https://vd373.mycdn.me/?expires=1604014717482&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.22.78&type=0&sig=q83FQfSrQq4&ct=4&urls=45.136.21.16&clientType=0&id=931299199543"                },
                 {
                     "name": "LOW",
-	            "display":"none",
-                    "dlink": "abc"                },
+	            "display":"non",
+                    "dlink": "https://vd373.mycdn.me/?expires=1604014717482&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.22.78&type=1&sig=_hrWGUV8RoU&ct=4&urls=45.136.21.16&clientType=0&id=931299199543"                },
                 {
                     "name": "SD",
-	            "display":"none",
-                    "dlink": "abc"                },
+	            "display":"non",
+                    "dlink": "https://vd373.mycdn.me/?expires=1604014717482&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.22.78&type=2&sig=jJuc_DRsrgU&ct=4&urls=45.136.21.16&clientType=0&id=931299199543"                },
                 {
                     "name": "Hd",
-	            "display":"none",
-                    "dlink": "abc"               
+	            "display":"non",
+                    "dlink": "https://vd373.mycdn.me/?expires=1604014717482&srcIp=195.201.40.190&srcAg=CHROME&ms=45.136.22.78&type=3&sig=3Bbb4EtKnjA&ct=4&urls=45.136.21.16&clientType=0&id=931299199543"               
                 },
                 {
                     "name": "Full Hd",
