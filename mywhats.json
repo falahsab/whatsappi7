@@ -4,8 +4,8 @@
             "comp_id": "1",
             "whatsname": "واتساب ابو عرب",
             "typ": "الذهبي | الذهبي ايرو | الاحمر | الازرق",
-            "update": "01/09/2020",
-            "ver": "v8.55",
+            "update": "05/10/2020",
+            "ver": "v8.65",
             "pageurl": "gold",
             "color": "#e83e8c",
             "imgurl": "https://lh3.googleusercontent.com/-RDMRfm8eWKI/XzFTLOzkTII/AAAAAAAAAgg/He8XQOy6jn0VEE6goDtrQ3kwZqsttptwQCLcBGAsYHQ/h120/whatsapp-gold.png",
@@ -14,25 +14,25 @@
                     "name": "الذهبي",
                     "page_url": "",
                     "img": "https://lh3.googleusercontent.com/-RDMRfm8eWKI/XzFTLOzkTII/AAAAAAAAAgg/He8XQOy6jn0VEE6goDtrQ3kwZqsttptwQCLcBGAsYHQ/h120/whatsapp-gold.png",
-                    "dlink": "https://archive.org/download/wa-2-abo-3rab-v-8.55/WA2_Abo3rab_v8.55.apk"
+                    "dlink": "http://www.mediafire.com/file/ncaj0undidj05l5/WA2_Abo3rab_v8.65.apk"
                 },
                 {
-                    "name": "الذهبي برو",
+                    "name": "الذهبي برو-الازرق",
                     "page_url": "",
                     "img": "https://lh3.googleusercontent.com/-Jqtm6LMEs04/Xz1i-AT_MuI/AAAAAAAAAnQ/_6fpNqPvMjYiN4Z6hI8J1XVv1wYwWt6mwCLcBGAsYHQ/h120/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A8%25D8%25B1%25D9%2588.png",
-                    "dlink": "https://archive.org/download/wa-4-abo-3rab-v-8.55/WA4_Abo3rab_v8.55.apk"
+                    "dlink": "http://www.mediafire.com/file/h49pb4xjis2x6iy/WA4_Abo3rab_v8.65.apk"
                 },
                 {
                     "name": "الاحمر",
                     "page_url": "",
                     "img": "https://lh3.googleusercontent.com/-SotjtF-SShk/Xz1lniCmZUI/AAAAAAAAAnc/HlRENFVyUnwnGGfZGuLrGgFIBsteXI9TwCLcBGAsYHQ/h120/whatsapp-abo-arab-red.png",
-                    "dlink": "https://archive.org/download/wa-3-abo-3rab-v-8.55/WA3_Abo3rab_v8.55.apk"
+                    "dlink": "http://www.mediafire.com/file/61nlovzdwf9fxu9/WA3_Abo3rab_v8.65.apk"
                 },
                 {
-                    "name": "الازرق",
+                    "name": "الاخضر بديل الرسمي",
                     "page_url": "",
                     "img": "https://1.bp.blogspot.com/-cH0_o8cXMdo/XzLnxF_tBHI/AAAAAAAAAi0/f8CPJiyb2sgWdBn37K4gkLWt8IoibTKSwCLcBGAsYHQ/s0/%25D9%2588%25D8%25A7%25D8%25AA%25D8%25B3%25D8%25A7%25D8%25A8-%25D8%25A8%25D9%2584%25D8%25B3-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B2%25D8%25B1%25D9%2582.png",
-                    "dlink": "https://archive.org/download/wa-abo-3rab-v-8.55/WA_Abo3rab_v8.55.apk"
+                    "dlink": "http://www.mediafire.com/file/czmetooj1gw7k1e/WA_Abo3rab_v8.65.apk"
                 }
             ],
             "theme_color": "#5998dc",
