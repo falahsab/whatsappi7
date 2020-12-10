@@ -4,15 +4,13 @@
  
  "ads_id":"1",
  "ad_type":"1",
- "ads_size:"100*90",
- "ads_img":"http://",
- "ads_url":"https://www.google.com"
+ "ads_size":"100*90",
+ "ads_img":"http://", "ads_url":"https://www.google.com"
 },{
 "ads_id":"2",
  "ad_type":"2",
- "ads_size:"100*250",
- "ads_img":"http://",
- "ads_url":"https://www.google.com"
+ "ads_size":"100*250",
+ "ads_img":"http://", "ads_url":"https://www.google.com"
 }
 ]
 }
