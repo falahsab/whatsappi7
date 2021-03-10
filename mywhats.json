@@ -985,23 +985,7 @@
             "type": "tournament",
             "featured": "1",
             "current_season": "{\"the_season\": \"2022\", \"has_standings\": 1, \"has_scorers\": 1}"
-        },
-         {
-            "comp_id": "34",
-            "whatsname": "الواتساب القديم",
-            "typ": "للاندرويد 4.0.4 وما قبلها",
-            "update": "22/02/2020",
-            "ver": "حتى 2030",
-            "pageurl": "old",
-            "color": "#63227d",
-            "imgurl": "https://lh3.googleusercontent.com/-B_43QZjw1q4/X2JZyB5Yn_I/AAAAAAAAA0U/EoAPADRCWnA5gv4xaRSffXkQYXDqK2KeQCLcBGAsYHQ/h120/download-old-whatsapp.png",
-            "ftyp": [
-                {
-                    "name": "الوتساب للاصدارات القديمة",
-                    "page_url": "last-update-old-whatsapp",
-                    "img": "https://lh3.googleusercontent.com/-B_43QZjw1q4/X2JZyB5Yn_I/AAAAAAAAA0U/EoAPADRCWnA5gv4xaRSffXkQYXDqK2KeQCLcBGAsYHQ/h120/download-old-whatsapp.png",
-                    "dlink": "https://www.mediafire.com/file/ti7i0nv2fvym8gm/WhatsApp+Android+2.6.3+-+4.0.4.apk/file"
-                }
+        }
             ],
             "theme_color": "#63227d",
             "type": "tournament",
