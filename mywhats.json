@@ -986,11 +986,5 @@
             "featured": "1",
             "current_season": "{\"the_season\": \"2022\", \"has_standings\": 1, \"has_scorers\": 1}"
         }
-            ],
-            "theme_color": "#63227d",
-            "type": "tournament",
-            "featured": "1",
-            "current_season": "{\"the_season\": \"2022\", \"has_standings\": 1, \"has_scorers\": 1}"
-        }
     ]
 }
