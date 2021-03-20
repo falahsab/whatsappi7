@@ -1,16 +1,35 @@
-{
+{"MyAds":
+        
+        [
+            {
+                "ad_type":"Banner",
+                "ads_width":"100",
+                "ads_height":"90",
+                "ads_img":"https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Play.svg",
+                "ads_url":"com.kdevo.massge4u",
+                "stars":"4.8",
+                "downloads":"100 K",
+                "about":"FREE",
+                "title":"مسجات وحالات",
+                "more_info":"اجمل رسائل للاحبه والعشاق",
+                "installapp":"yes"
+                
+            },
+            {   
+                "ad_type":"Interstitial",
+                "ads_width":"100",
+                "ads_height":"90",
+                "ads_img":"https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Play.svg",
+                "ads_url":"com.kdevo.massge4u",
+                "stars":"4.8",
+                "downloads":"100 K",
+                "about":"FREE",
+                "title":"مسجات وحالات",
+                "more_info":"اجمل رسائل للاحبه والعشاق",
+                "installapp":"yes"
+            }
+            
+        ]
+            
 
-"MyAds":[{
- 
- "ads_id":"1",
- "ad_type":"1",
- "ads_size":"100*90",
- "ads_img":"http://", "ads_url":"https://www.google.com"
-},{
-"ads_id":"2",
- "ad_type":"2",
- "ads_size":"100*250",
- "ads_img":"http://", "ads_url":"https://www.google.com"
-}
-]
-}
+    }
