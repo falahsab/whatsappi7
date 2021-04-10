@@ -985,6 +985,46 @@
             "type": "tournament",
             "featured": "1",
             "current_season": "{\"the_season\": \"2022\", \"has_standings\": 1, \"has_scorers\": 1}"
+        },
+        {
+            "comp_id": "34",
+            "whatsname": "MG واتساب",
+            "typ": "الذهبي | الاخضر | الازرق | الوردي",
+            "update": "08/03/2021",
+            "ver": "v11.75",
+            "pageurl": "gold",
+            "color": "#e83e8c",
+            "imgurl": "https://lh3.googleusercontent.com/-ZENl2rLHKvA/YHFXBUyCr1I/AAAAAAAABFA/J3vO6asOUaoAfg5uQkgsTSGChzDxOvauwCLcBGAsYHQ/h120/mg-gold.png",
+            "ftyp": [
+                {
+                    "name": "الذهبي",
+                    "page_url": "",
+                    "img": "https://lh3.googleusercontent.com/-ZENl2rLHKvA/YHFXBUyCr1I/AAAAAAAABFA/J3vO6asOUaoAfg5uQkgsTSGChzDxOvauwCLcBGAsYHQ/h120/mg-gold.png",
+                    "dlink": "https://www.mediafire.com/file/hcuhn2uq31yj1px/%D8%AA%D8%AD%D8%AF%D9%8A%D9%80%D8%AB+%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8+MG+%D8%A7%D9%84%D8%B0%D9%87%D8%A8%D9%80%D9%8A.apk/file"
+                },
+                {
+                    "name":"الاخضر",
+                    "page_url": "",
+                    "img": "https://lh3.googleusercontent.com/-OuwAXugNlnU/YHFXBUAOD7I/AAAAAAAABFE/wZuYgl0CYQs7KeoLaz0neNtzMirpspx0wCLcBGAsYHQ/h120/mg-green.png",
+                    "dlink": "https://www.mediafire.com/file/vpehk7awz6pymz9/%D8%AA%D8%AD%D8%AF%D9%8A%D9%80%D8%AB+%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8+MG+%D8%A7%D9%84%D8%A7%D8%AE%D8%B6%D9%80%D8%B1.apk/file"
+                },
+                {
+                    "name": "الازرق",
+                    "page_url": "",
+                    "img": "https://lh3.googleusercontent.com/-qeGmfcUPy1g/YHFXBdd3StI/AAAAAAAABE8/88344vzjJhMokwTJ6Vfdfg2RihrjQD-sgCLcBGAsYHQ/h120/mg-blue.png",
+                    "dlink": "https://www.mediafire.com/file/2z42kt5ra4fu3n0/%D8%AA%D8%AD%D8%AF%D9%8A%D9%80%D8%AB+%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8+MG+%D8%A7%D9%84%D8%A7%D8%B2%D8%B1%D9%82.apk/file"
+                },
+                {
+                    "name": "الوردي",
+                    "page_url": "",
+                    "img": "https://lh3.googleusercontent.com/-Lvr1AHeDN60/YHFXCKKIHZI/AAAAAAAABFI/fZF2s1s_DdkCtLmyTIUgpOCfBBeSzrbKwCLcBGAsYHQ/h120/mg-red.png",
+                    "dlink": "https://www.mediafire.com/file/24vn3iq0z73qhk1/%D8%AA%D8%AD%D8%AF%D9%8A%D9%80%D8%AB+%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8+MG+%D8%A7%D9%84%D9%80%D9%88%D8%B1%D8%AF%D9%8A.apk/file"
+                }
+            ],
+            "theme_color": "#5998dc",
+            "type": "tournament",
+            "featured": "1",
+            "current_season": "{\"the_season\": \"/\", \"has_standings\": 1, \"has_scorers\": 2, \"has_s1\": 1}"
         }
     ]
 }
