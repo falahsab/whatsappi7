@@ -1063,8 +1063,35 @@
             "type": "league",
             "featured": "1",
             "current_season": "{\"the_season\": \"/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+        },
+        {
+            "comp_id": "37",
+            "whatsname": "واتساب للاعمال العبيدي",
+            "typ": "bus",
+            "update": "27/01/2021",
+            "ver": "v20.5.5",
+            "pageurl": "bus",
+            "color": "#007bff",
+            "imgurl": "https://lh3.googleusercontent.com/-75noC4x8vaU/YHdVLIVrw8I/AAAAAAAABGA/xM_qFptCtko4AbFShhxFgpvm5fqYXKtywCLcBGAsYHQ/h120/Business-whatsapp.png",
+            "ftyp": [
+                {
+                    "name": "بديل الرسمي",
+                    "page_url": "",
+                    "img": "https://lh3.googleusercontent.com/-75noC4x8vaU/YHdVLIVrw8I/AAAAAAAABGA/xM_qFptCtko4AbFShhxFgpvm5fqYXKtywCLcBGAsYHQ/h120/Business-whatsapp.png",
+                    "dlink": "https://www.mediafire.com/download/ex8iz54iyqmm3ba"
+                },
+                {
+                    "name": "بجانب الرسمي",
+                    "page_url": "",
+                    "img": "https://lh3.googleusercontent.com/-75noC4x8vaU/YHdVLIVrw8I/AAAAAAAABGA/xM_qFptCtko4AbFShhxFgpvm5fqYXKtywCLcBGAsYHQ/h120/Business-whatsapp.png",
+                    "dlink": "https://www.mediafire.com/file/gfmohinqnyfkw4b/GAWhatsApp_Business_v20.5.5_based_v2.20.206.24_fixed_by_%2540alabidi_tech.apk/file"
+                }
+            ],
+            "theme_color": "#22ae4b",
+            "type": "tournament",
+            "featured": "0",
+            "current_season": "{\"the_season\": \"2019/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
         }
-
 
     ]
 }
