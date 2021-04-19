@@ -1091,7 +1091,47 @@
             "type": "tournament",
             "featured": "0",
             "current_season": "{\"the_season\": \"2019/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
-        }
+        },
+{
+            "comp_id": "38",
+            "whatsname": "واتساب فؤاد مقداد",
+            "typ": "bus",
+            "update": "09/04/2021",
+            "ver": "v8.86",
+            "pageurl": "bus",
+            "color": "#007bff",
+            "imgurl": "https://lh3.googleusercontent.com/-msuF23Y-lKk/YH3W1AFCxJI/AAAAAAAABGs/uAjHVvz0le8OWsGg9RLyZTyzPvVS5stFgCLcBGAsYHQ/h120/fmwhatsapp.png",
+            "ftyp": [
+                {
+                    "name": "بديل الرسمي",
+                    "page_url": "",
+                    "img": "https://lh3.googleusercontent.com/-msuF23Y-lKk/YH3W1AFCxJI/AAAAAAAABGs/uAjHVvz0le8OWsGg9RLyZTyzPvVS5stFgCLcBGAsYHQ/h120/fmwhatsapp.png",
+                    "dlink": "https://www.mediafire.com/file/qpcph6pndyrkyyj/Fouad.Whats.v8.86_By.FouadMODS.apk/file"
+                },
+                {
+                    "name": "لتشغيل رقم ثاني",
+                    "page_url": "",
+                    "img": "https://lh3.googleusercontent.com/-msuF23Y-lKk/YH3W1AFCxJI/AAAAAAAABGs/uAjHVvz0le8OWsGg9RLyZTyzPvVS5stFgCLcBGAsYHQ/h120/fmwhatsapp.png",
+                    "dlink": "https://www.mediafire.com/file/cf9vcfajm08vdom/FMWA.8.86_By.FouadMODS.apk/file"
+                },
+                {
+                    "name": "جي بي واتساب فؤاد",
+                    "page_url": "",
+                    "img": "https://lh3.googleusercontent.com/-msuF23Y-lKk/YH3W1AFCxJI/AAAAAAAABGs/uAjHVvz0le8OWsGg9RLyZTyzPvVS5stFgCLcBGAsYHQ/h120/fmwhatsapp.png",
+                    "dlink": "https://www.mediafire.com/file/0vk7rxscc94e6y1/GBWA.8.86_By.FouadMODS.apk/file"
+                },
+                {
+                    "name": "يو واتساب فؤاد",
+                    "page_url": "",
+                    "img": "https://lh3.googleusercontent.com/-msuF23Y-lKk/YH3W1AFCxJI/AAAAAAAABGs/uAjHVvz0le8OWsGg9RLyZTyzPvVS5stFgCLcBGAsYHQ/h120/fmwhatsapp.png",
+                    "dlink": "https://www.mediafire.com/file/jzl0eyl4udsajln/YOWA.v8.86_By.FouadMODS..apk/file"
+                }
+            ],
+            "theme_color": "#22ae4b",
+            "type": "tournament",
+            "featured": "0",
+            "current_season": "{\"the_season\": \"2019/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+        }        
 
     ]
 }
