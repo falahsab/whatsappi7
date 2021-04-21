@@ -1131,6 +1131,50 @@
             "type": "tournament",
             "featured": "0",
             "current_season": "{\"the_season\": \"2019/2020\", \"has_standings\": 1, \"has_scorers\": 1}"
+        },
+{
+            "comp_id": "39",
+            "whatsname": "اردني واتساب",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "20/04/2021",
+            "ver": "v23",
+            "pageurl": "lobnani",
+            "color": "#dc3545",
+            "imgurl": "https://lh3.googleusercontent.com/-k43pzvYz9C4/YICNA5C5B8I/AAAAAAAABHY/gxmbknw5k0cgFjpqPlqBfNDFAUbh6MGswCLcBGAsYHQ/h120/gordon-whatsapp.png",
+            "ftyp": [
+                {
+                    "name": "اردني واتساب",
+                    "page_url": "",
+                    "img": "https://lh3.googleusercontent.com/-k43pzvYz9C4/YICNA5C5B8I/AAAAAAAABHY/gxmbknw5k0cgFjpqPlqBfNDFAUbh6MGswCLcBGAsYHQ/h120/gordon-whatsapp.png",
+                    "dlink": "https://www.mediafire.com/file/75qa4joa24qfhcf/JordanianWhatsApp_v23.apk/file"
+                }
+            ],
+            "theme_color": "#63227d",
+            "type": "league",
+            "featured": "1",
+            "current_season": "{\"the_season\": \"/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
+        },
+        {
+            "comp_id": "40",
+            "whatsname": "فاست واتساب",
+            "typ": "عدد النسخ: نسخة واحدة",
+            "update": "06/02/2021",
+            "ver": "v9.10",
+            "pageurl": "egyptian",
+            "color": "#007bff",
+            "imgurl": "https://lh3.googleusercontent.com/-L0uxtEto7ws/YICNAynFazI/AAAAAAAABHU/5zfQR4oHGcQUrbrfyN_qHYwo7IdLG7huwCLcBGAsYHQ/h120/fast-whatsapp.png",
+            "ftyp": [
+                {
+                    "name": "فاست واتساب",
+                    "page_url": "",
+                    "img": "https://lh3.googleusercontent.com/-L0uxtEto7ws/YICNAynFazI/AAAAAAAABHU/5zfQR4oHGcQUrbrfyN_qHYwo7IdLG7huwCLcBGAsYHQ/h120/fast-whatsapp.png",
+                    "dlink": "http://www.mediafire.com/file/b3y43pcankje8my/file"
+                }
+            ],
+            "theme_color": "#63227d",
+            "type": "league",
+            "featured": "1",
+            "current_season": "{\"the_season\": \"/\", \"has_standings\": 1, \"has_scorers\": 1, \"has_s1\": 1}"
         }
 
     ]
