@@ -2,6 +2,7 @@
     "data": [
         {   "epsodenum":"4",
             "comp_id": "1",
+	    "iphonname":"iPhone 5S",
             "color":"#007bff",
 	    "hedlin":"تم عرض الحلقة في ",
             "update": "07/10/2020",
@@ -47,9 +48,10 @@
         },
   { 
             "comp_id": "2",
+	    "iphonname":"iPhone SE",
             "color":"#e83e8c",
-	    "hedlin":"تم عرض الحلقة في  ",
-            "update": "14/10/2020",
+	    "hedlin":"اخر ملف شبكة  ",
+            "update": "ios 15.xx",
             "seson": "2",
             "display1":"none",
 	    "ifarme1":"8AARhD24Lzc",
@@ -108,6 +110,7 @@
         },
  { 
             "comp_id": "3",
+	    "iphonname":"iPhone 6G",
             "color":"#ffc107",
 	    "hedlin":"تم عرض الحلقة في ",
             "update": "21/10/2020",
@@ -152,6 +155,7 @@
                 },
  { 
             "comp_id": "4",
+	    "iphonname":"iPhone 6S",
             "color":"#2ce232",
 	    "hedlin":"تم عرض الحلقة ",
             "update": "28/10/2020",
